@@ -1,7 +1,7 @@
-### ![](https://placehold.it/350x90/009955/fff?text='Hello!')
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=UKMw7qQBt7Q" target="_blank">
- <img src="http://img.youtube.com/vi/UKMw7qQBt7Q/0.jpg" alt="Drew W Mercer Intro Video" width="240" height="180" border="10" />
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ih4JN3DhYn4" target="_blank">
+ <img src="http://img.youtube.com/vi/Ih4JN3DhYn4/0.jpg" alt="Drew W Mercer Intro Video" width="240" height="180" border="10" />
 </a>
 
 <!--
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### ![](https://placehold.it/350x90/009955/fff?text='Hello!')
 -->
